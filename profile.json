@@ -1,18 +1,18 @@
 {
 	"basics": {
-		"name": "Kishore",
-		"label": "Architect",
+		"name": "Govind Tank",
+		"label": "Android Developer",
 		"picture": "profile.jpg",
-		"email": "prakis@gmail.com",
-		"phone": "(912) 98765-4321",
-		"website": "https://reactdude.com/",
-		"twitter": "https://twitter.com/prakis",
-		"facebook": "https://www.facebook.com/Stringify.me",
-		"github": "http://github.com/prakis",
-		"summary": "I work as a consultant, designing and developing web (<b>Java</b>, <b>ReactJS</b>, <b>NodeJS</b>) & desktop (<b>C#</b>, <b>JavaFX</b>) apps. I have over 16 years experience in software development and 2 years in Nanotechnology."
+		"email": "govindtank600@gmail.com",
+		"phone": "(+91) 84604 84061",
+		"website": "https://govindtank.github.io/",
+		"twitter": "https://twitter.com/govindtank4",
+		"facebook": "https://www.facebook.com/govind.tank.77",
+		"github": "http://github.com/govindtank",
+		"summary": "I work as a freelancer, designing and developing mobile applications using(<b>Java</b>, <b>Kotlin</b>, <b>Flutter</b>) & desktop (<b>.Net</b>, <b>JavaFX</b>) apps. I have experience of prototyping, designing, developing, and deploying complete appilcations for more than 4 years."
 	},
 	"theme": {
-		"url": "https://github.com/prakis/stringify.me-theme",
+		"url": "https://linkedin.com/in/govindtank",
 		"background" :"#f98008"
 	}
 }
